@@ -9,7 +9,7 @@
 			"userGid": 1000
 		}
 	},
-	"postCreateCommand": "zsh -c 'compaudit'",
+	"postCreateCommand": "zsh -ilc 'compaudit'",
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
